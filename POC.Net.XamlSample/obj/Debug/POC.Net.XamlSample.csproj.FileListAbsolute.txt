@@ -1,0 +1,11 @@
+C:\Users\Jim\GameDev\POC\POC.Net\POC.Net.XamlSample\obj\Debug\MainWindow.baml
+C:\Users\Jim\GameDev\POC\POC.Net\POC.Net.XamlSample\obj\Debug\MainWindow.g.cs
+C:\Users\Jim\GameDev\POC\POC.Net\POC.Net.XamlSample\obj\Debug\App.g.cs
+C:\Users\Jim\GameDev\POC\POC.Net\POC.Net.XamlSample\obj\Debug\POC.Net.XamlSample_MarkupCompile.cache
+C:\Users\Jim\GameDev\POC\POC.Net\POC.Net.XamlSample\obj\Debug\POC.Net.XamlSample.g.resources
+C:\Users\Jim\GameDev\POC\POC.Net\POC.Net.XamlSample\bin\Debug\POC.Net.XamlSample.exe.config
+C:\Users\Jim\GameDev\POC\POC.Net\POC.Net.XamlSample\bin\Debug\POC.Net.XamlSample.exe
+C:\Users\Jim\GameDev\POC\POC.Net\POC.Net.XamlSample\bin\Debug\POC.Net.XamlSample.pdb
+C:\Users\Jim\GameDev\POC\POC.Net\POC.Net.XamlSample\obj\Debug\POC.Net.XamlSample.exe
+C:\Users\Jim\GameDev\POC\POC.Net\POC.Net.XamlSample\obj\Debug\POC.Net.XamlSample.pdb
+C:\Users\Jim\GameDev\POC\POC.Net\POC.Net.XamlSample\obj\Debug\POC.Net.XamlSample.csprojResolveAssemblyReference.cache

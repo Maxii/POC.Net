@@ -1,0 +1,8 @@
+C:\Users\Jim\GameDev\POC\POC.Security\POC.Security.Net40\POC.Security.Net40.CasConsole\bin\Debug\POC.Security.Net40.CasConsole.exe.config
+C:\Users\Jim\GameDev\POC\POC.Security\POC.Security.Net40\POC.Security.Net40.CasConsole\bin\Debug\POC.Security.Net40.CasConsole.exe
+C:\Users\Jim\GameDev\POC\POC.Security\POC.Security.Net40\POC.Security.Net40.CasConsole\bin\Debug\POC.Security.Net40.CasConsole.pdb
+C:\Users\Jim\GameDev\POC\POC.Security\POC.Security.Net40\POC.Security.Net40.CasConsole\bin\Debug\POC.Security.Net40.CasAssemblyInfo.dll
+C:\Users\Jim\GameDev\POC\POC.Security\POC.Security.Net40\POC.Security.Net40.CasConsole\bin\Debug\POC.Security.Net40.CasAssemblyInfo.pdb
+C:\Users\Jim\GameDev\POC\POC.Security\POC.Security.Net40\POC.Security.Net40.CasConsole\obj\Debug\POC.Security.Net40.CasConsole.csprojResolveAssemblyReference.cache
+C:\Users\Jim\GameDev\POC\POC.Security\POC.Security.Net40\POC.Security.Net40.CasConsole\obj\Debug\POC.Security.Net40.CasConsole.exe
+C:\Users\Jim\GameDev\POC\POC.Security\POC.Security.Net40\POC.Security.Net40.CasConsole\obj\Debug\POC.Security.Net40.CasConsole.pdb

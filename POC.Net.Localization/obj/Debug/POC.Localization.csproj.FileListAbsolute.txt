@@ -1,0 +1,1 @@
+C:\Users\Jim\GameDev\POC\POC.Net\POC.Localization\bin\Debug\POC.Localization.exe.config

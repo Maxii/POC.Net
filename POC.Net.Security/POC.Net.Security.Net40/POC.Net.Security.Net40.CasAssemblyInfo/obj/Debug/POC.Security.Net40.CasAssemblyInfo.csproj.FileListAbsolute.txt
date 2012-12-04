@@ -1,0 +1,4 @@
+C:\Users\Jim\GameDev\POC\POC.Security\POC.Security.Net40\POC.Security.Net40.CasAssemblyInfo\bin\Debug\POC.Security.Net40.CasAssemblyInfo.dll
+C:\Users\Jim\GameDev\POC\POC.Security\POC.Security.Net40\POC.Security.Net40.CasAssemblyInfo\bin\Debug\POC.Security.Net40.CasAssemblyInfo.pdb
+C:\Users\Jim\GameDev\POC\POC.Security\POC.Security.Net40\POC.Security.Net40.CasAssemblyInfo\obj\Debug\POC.Security.Net40.CasAssemblyInfo.dll
+C:\Users\Jim\GameDev\POC\POC.Security\POC.Security.Net40\POC.Security.Net40.CasAssemblyInfo\obj\Debug\POC.Security.Net40.CasAssemblyInfo.pdb
