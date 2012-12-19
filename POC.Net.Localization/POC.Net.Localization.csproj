@@ -106,7 +106,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\POC.Net.Localization.ResourceProject\POC.Net.Localization.ResourceProject.csproj">
-      <Project>{30988a11-a4f0-4fdc-82d5-41b87ea410be}</Project>
+      <Project>{B6B297F1-3F53-4F36-AC77-27391FE09D30}</Project>
       <Name>POC.Net.Localization.ResourceProject</Name>
     </ProjectReference>
   </ItemGroup>
