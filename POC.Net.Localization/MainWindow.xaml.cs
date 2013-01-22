@@ -67,8 +67,12 @@ namespace POC.Net.Localization {
             //MyLabel.Content = POC.Net.Localization.ResourceProject.MyStrings.Hello;      // For testing Resources in Main Assembly
             MyLabel.Content = POC.Net.Localization.ResourceProject.UIMessages.Hello;
 
-        }
 
+            CultureInfo frenchCulture = new CultureInfo("fr-FR");
+            Thread.CurrentThread.CurrentCulture = frenchCulture;
+            Thread.CurrentThread.CurrentUICulture = frenchCulture;
+
+        }
 
 
     }
