@@ -21,7 +21,7 @@ namespace POC.Net.GeneralEntry {
     using System.Windows.Threading;
 
     using CodeEnv.Master.Common;
-    using CodeEnv.Master.Common.Resources;
+    using CodeEnv.Master.Common.LocalResources;
 
     /// <summary>
     /// The main entry point extending the Application class, implementing code behind logic for App.xaml

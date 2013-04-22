@@ -13,11 +13,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.Net.Localization.Resour
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferencedProjects", "ReferencedProjects", "{7F005479-6033-42D5-84F1-7F803EF35781}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEnv.Master.Common.Resources", "..\..\CodeEnv\CodeEnv.Master\CodeEnv.Master.Common.Resources\CodeEnv.Master.Common.Resources.csproj", "{30988A11-A4F0-4FDC-82D5-41B87EA410BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEnv.Master.Common.LocalResources", "..\..\CodeEnv\CodeEnv.Master\CodeEnv.Master.Common.LocalResources\CodeEnv.Master.Common.LocalResources.csproj", "{30988A11-A4F0-4FDC-82D5-41B87EA410BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEnv.Master.Common", "..\..\CodeEnv\CodeEnv.Master\CodeEnv.Master.Common\CodeEnv.Master.Common.csproj", "{1557C03E-56EE-4C70-9BD8-AB637D3191CF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.Net.GeneralEntry", "POC.Net.GeneralEntry\POC.Net.GeneralEntry.csproj", "{31556467-0C30-49D6-B6A5-5A284906DC61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC.Net.AssemblySecurityEvidenceViewer", "POC.Net.AssemblySecurityEvidenceViewer\POC.Net.AssemblySecurityEvidenceViewer.csproj", "{49546F74-0C1F-491A-8197-C403C082E59D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -52,6 +54,10 @@ Global
 		{31556467-0C30-49D6-B6A5-5A284906DC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31556467-0C30-49D6-B6A5-5A284906DC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31556467-0C30-49D6-B6A5-5A284906DC61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49546F74-0C1F-491A-8197-C403C082E59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49546F74-0C1F-491A-8197-C403C082E59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49546F74-0C1F-491A-8197-C403C082E59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49546F74-0C1F-491A-8197-C403C082E59D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

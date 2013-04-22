@@ -27,7 +27,7 @@ namespace POC.Net.GeneralEntry {
     using System.Windows.Shapes;
 
     using CodeEnv.Master.Common;
-    using CodeEnv.Master.Common.Resources;
+    using CodeEnv.Master.Common.LocalResources;
 
 
     /// <summary>

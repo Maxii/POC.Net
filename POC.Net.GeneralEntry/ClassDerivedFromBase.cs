@@ -16,7 +16,7 @@ namespace POC.Net.GeneralEntry {
     using System.Collections.Generic;
     using System.Linq;
     using CodeEnv.Master.Common;
-    using CodeEnv.Master.Common.Resources;
+    using CodeEnv.Master.Common.LocalResources;
 
     public class ClassDerivedFromBase : BaseClass {
 
