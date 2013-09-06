@@ -115,3 +115,4 @@ UpgradeLog*.XML
 # My additions
 *.orig
 [Ff]x[Cc]op[Oo]utput*/
+*.[Cc]ache
